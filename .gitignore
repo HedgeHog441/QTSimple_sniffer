@@ -1,5 +1,6 @@
 .user
 build-*/
+build/
 *.o
 *.a
 moc_*.cpp
