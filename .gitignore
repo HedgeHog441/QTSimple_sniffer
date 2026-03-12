@@ -1,0 +1,8 @@
+.user
+build-*/
+*.o
+*.a
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+Makefile

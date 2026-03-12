@@ -1,0 +1,9 @@
+/home/ilya/C++/QT/QTSimple_sniffer/build/Desktop-Debug/CMakeFiles/QTSimple_sniffer.dir
+/home/ilya/C++/QT/QTSimple_sniffer/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/ilya/C++/QT/QTSimple_sniffer/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/ilya/C++/QT/QTSimple_sniffer/build/Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/ilya/C++/QT/QTSimple_sniffer/build/Desktop-Debug/CMakeFiles/install.dir
+/home/ilya/C++/QT/QTSimple_sniffer/build/Desktop-Debug/CMakeFiles/install/local.dir
+/home/ilya/C++/QT/QTSimple_sniffer/build/Desktop-Debug/CMakeFiles/install/strip.dir
+/home/ilya/C++/QT/QTSimple_sniffer/build/Desktop-Debug/CMakeFiles/QTSimple_sniffer_autogen_timestamp_deps.dir
+/home/ilya/C++/QT/QTSimple_sniffer/build/Desktop-Debug/CMakeFiles/QTSimple_sniffer_autogen.dir
